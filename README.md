@@ -1,5 +1,5 @@
 # 📝 SMARTEDIT – Notepad-like Application
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 > A desktop-based **Notepad clone** built with **VB.Net**, featuring advanced editing and file handling options.  
 
 ---
