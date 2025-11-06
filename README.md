@@ -30,4 +30,4 @@ It allows users to create, edit, and save text documents with additional customi
 ## 🚀 How to Run
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/SMARTEDIT.git
+   git clone https://github.com/Devesh517/Notepad.git
